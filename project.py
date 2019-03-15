@@ -1,5 +1,6 @@
 # Digital electronics circuit project using Map Entered Variable(MEV) method of reduction for 4 variables
 
+# Taking inputs from the end user in ascending order
 a=int(input("Please enter the number of min-terms that you are going to enter(max-16):"))
 print("Enter the min-terms in ascending order : ",end="\n")
 b=[]
@@ -7,12 +8,14 @@ for i in range(a):
 	c=int(input())
 	b.append(c)
 
+# Displaying the question that the end user is intended to  evaluate
 print("Your question :  f(a,b,c,d) = ⵉ m(",end="")
 for i in b:
 	print(i,end=",")
 print(end=")\n")
 print("\n")
 
+# Obtaining the output of 4 variable digital circuit as per the end user input
 dec=list(range(16))
 fun=[]
 for i in dec:
@@ -23,12 +26,15 @@ for i in dec:
     
 #print(fun)
 
+# Creating four 2-variable Karnaugh map 
 final=[]
 fun0=fun[0:4]
 fun1=fun[4:8]
 fun2=fun[8:12]
 fun3=fun[12:16]
 
+
+# Defining function for solving the 2-variable Karnaugh map
 def kmap(x):
 	if (x[0]==1 and x[1]==1) and (x[2]==1 and x[3]==1):
 		final.append("1")
@@ -65,11 +71,16 @@ def kmap(x):
     
 	else:
 		final.append("0")
+		
+		
+# Calling kmap functiion to solve the four 2-variable Karnaugh maps created above
 kmap(fun0)
 kmap(fun1)
 kmap(fun2)
 kmap(fun3)
 #print(final)
+
+# Displaying the 2-variable Map Entered Variable 
 print("   | b'   | b     ") 
 print("----------------")
 print(" a'|",final[0],"|",final[1],"|" )
@@ -92,7 +103,7 @@ step2.discard("1")
 step3=list(step2)
 #print("step3 =",step3)
    
-
+# Defining  the function for solving the Karnaugh map for  2-variable Map Entered Variable
 def mevmap(x,y):
 	if ((x[0]=="1" and x[1]=="1" ) and (x[2]=="1" and x[3]=="1")) or ((x[0]=="@" and x[1]=="@" ) and (x[2]=="@" and x[3]=="@")):
 		exp= y
@@ -187,6 +198,7 @@ def mevmap(x,y):
 	else:
 		pass
 
+# Calling the mevmap function to solve the the MEV K-map
 step1=mevmap(final,"")
 #print("step1=",step1)
 do = []
@@ -197,6 +209,7 @@ if step1 != None:
 #reserve=list(tup)
 #print("reserve =",reserve)
 
+# Defining a function for solving the MEV Karnaugh map
 def this(vision,x):
 	for i in range(len(vision)):
 		if vision[i]==x:
@@ -214,9 +227,12 @@ for j in range(len(step3)):
 	a=this(list(tup),step3[j])
 	#print(step3[j])
 	do.append(a)
-		
+
+# Removing the duplicates MEV from the final list of result
 justit=set(do)
 justdoit=list(justit)
+
+# Displaying the final answer
 print("f(a,b,c,d) = ",end="")
 for i in justdoit:
 	print(i,end="")
