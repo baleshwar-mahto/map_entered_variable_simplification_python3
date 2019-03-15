@@ -1,6 +1,5 @@
-#Digital electronics circuit project using MEV method of reduction for 4 variables
-#Submitted by- Baleshwar Mahto,3rd Semester,Reg no.- 2017IEN09
-#Faculty Incharge- Vidyadhar Sir
+# Digital electronics circuit project using Map Entered Variable(MEV) method of reduction for 4 variables
+
 a=int(input("Please enter the number of min-terms that you are going to enter(max-16):"))
 print("Enter the min-terms in ascending order : ",end="\n")
 b=[]
