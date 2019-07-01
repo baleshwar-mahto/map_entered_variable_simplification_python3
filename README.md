@@ -21,6 +21,8 @@ An entered variable k-map is shown in figure below :
 
  
 
+## The Python 3 code in action 
+![alt text](http://url/to/py_code@work.png)
 The detailed description about the project can be found in the link below :
 
 https://drive.google.com/file/d/1oAODZIsy7459-_C6LWzd1m9FnZfv9eqy/view?usp=drivesdk
