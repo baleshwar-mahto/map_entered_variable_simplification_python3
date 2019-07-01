@@ -18,11 +18,15 @@ expression (such as A+B’ C) into a cell , in addition to 0s , 1s, and don’t
 care terms.
 
 An entered variable k-map is shown in figure below :
+![Screenshot](mev.png)
 
  
 
 ## The Python 3 code in action 
 ![Screenshot](py_code@work.png)
+
+
+
 The detailed description about the project can be found in the link below :
 
 https://drive.google.com/file/d/1oAODZIsy7459-_C6LWzd1m9FnZfv9eqy/view?usp=drivesdk
