@@ -1,7 +1,6 @@
-# mev-project
-## Python 3 implementation of Map Entered Variable(MEV) method
+# Python 3 implementation of Map Entered Variable(MEV) method
 
-What is Map Entered Variable(MEV) method ?
+## What is Map Entered Variable(MEV) method ?
 
 K-map is the best manual technique for the simplification of Boolean
 equations, but it becomes difficult to manage when number of variable
