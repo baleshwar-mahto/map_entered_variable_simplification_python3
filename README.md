@@ -43,9 +43,11 @@ All you need is a text editor and terminal (in case of Linux or Mac ) or any IDE
 
 The next step , just copy and paste the raw version of project.py code present in the main page of mev-project .
 
-In case you are using Mac or Linux for testing this code and have  saved the code in your system as project.py ,then open the terminal and move to the directory where you have saved the project.py and type as below to run it
+In case you are using Mac or Linux for testing this code and have  saved the code in your system as project.py ,then open the terminal and move to the directory where you have saved the project.py and type as below to run it.
+
 
 $ python3 project.py
+
 
 If you are using any IDE in Windows or Mac , simply run the code using the " Run " button available in the IDE .
 
