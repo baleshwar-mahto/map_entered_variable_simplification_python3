@@ -31,6 +31,9 @@ The code in this case is written for four variable K-map problem , which means t
 ![Screenshot](py_code@work.png)
 (Using terminal in Ubuntu 18.04 )
 
+-----------------------------------------------------------------------------------------------------------------------------
+![Screenshot](Using_spyder.png)
+(Using Spyder IDE in Ubuntu 18.04)
 
 
 
