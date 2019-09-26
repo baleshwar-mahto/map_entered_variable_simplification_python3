@@ -32,6 +32,7 @@ The code in this case is written for four variable K-map problem , which means t
 ## Dependencies
 __Python 3__
 
+
 ## Installation
 __On Mac or any Linux distro__
 
