@@ -52,7 +52,7 @@ __On Windows__
 
 Install python 3 version from  [here](https://www.python.org/downloads/)
 
-## Usage
+## Usage on your Local Machine
 It's fairly simple .
 All you need is a text editor and terminal (in case of Linux or Mac ) or any IDE like PyCharm or Spyder,etc .
 
