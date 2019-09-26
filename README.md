@@ -40,6 +40,7 @@ Python 3 comes pre-installed with Mac or any Linux distro , so just open your te
 __$ python --version__
 
 You will see something like this as shown below (in Ubuntu 18.04)
+![Screenshot](python_version.png)
 
 
 If you see python version above 3 , you are ready to go .
