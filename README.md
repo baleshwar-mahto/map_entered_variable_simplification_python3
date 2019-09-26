@@ -45,7 +45,7 @@ You will see something like this as shown below (in Ubuntu 18.04)
 
 If you see python version above 3 , you are ready to go .
 
-if you see python version 2.7 , install the the python 3 version from [here](https://www.python.org/downloads/)
+If you see python version 2.7 , install the the python 3 version from [here](https://www.python.org/downloads/)
 
 __On Windows__
 
