@@ -1,5 +1,7 @@
 # Python 3 implementation of Map Entered Variable(MEV) method
 
+## Overview
+
 ## What is Map Entered Variable(MEV) method ?
 K-map is the best manual technique for the simplification of Boolean
 equations, but it becomes difficult to manage when number of variable
@@ -26,6 +28,9 @@ At first , it may look fairly simple as a relatively simple example has been dem
 As the number of variables increases the complexicity of grouping the enterd variables also increases .
 The code in this case is written for four variable K-map problem , which means there will be 16 cells in the K-map for that kind of problems .
  
+
+## Dependencies
+Python
 
 ## The Python 3 code in action 
 ![Screenshot](py_code@work.png)
