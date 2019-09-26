@@ -62,6 +62,7 @@ Open any editor of your choice and just copy and paste the raw version of projec
 __On Windows__
  
  Refer the screenshot below to run project.py in windows .
+ ![Screenshot](python_windows.png)
  
 
 
