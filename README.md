@@ -48,6 +48,7 @@ If you see python version above 3 , you are ready to go .
 if you see python version 2.7 , install the the python 3 version from [here](https://www.python.org/downloads/)
 
 __On Windows__
+
 Install python 3 version from  [here](https://www.python.org/downloads/)
 
 ## Usage
