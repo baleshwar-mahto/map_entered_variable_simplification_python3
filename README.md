@@ -34,6 +34,7 @@ __Python 3__
 
 ## Installation
 __On Mac or any Linux distro__
+
 Python 3 comes pre-installed with Mac or any Linux distro , so just open your terminal and type ,
 
 __$ python --version__
