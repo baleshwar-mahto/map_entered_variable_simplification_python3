@@ -30,7 +30,38 @@ The code in this case is written for four variable K-map problem , which means t
  
 
 ## Dependencies
-Python
+__Python 3__
+
+## Installation
+__On Mac or any Linux distro__
+Python 3 comes pre-installed with Mac or any Linux distro , so just open your terminal and type ,
+
+__$ python --version__
+
+You will see something like this as shown below (in Ubuntu 18.04)
+
+
+If you see python version above 3 , you are ready to go .
+if you see python version 2.7 , install the the python 3 version from [here](https://www.python.org/downloads/)
+
+__On Windows__
+Install python 3 version from  [here](https://www.python.org/downloads/)
+
+## Usage
+It's fairly simple .
+All you need is a text editor and terminal (in case of Linux or Mac ) or any IDE like PyCharm or Spyder,etc .
+
+The next step , just copy and paste the raw version of project.py code present in the main page of mev-project .
+
+In case you are using Mac or Linux for testing this code and have  saved the code in your system as project.py ,then open the terminal and move to the directory where you have saved the project.py and type as below to run it.
+
+
+__$ python3 project.py__
+
+
+If you are using any IDE in Windows or Mac , simply run the code using the " Run " button available in the IDE .
+
+To get the desired result , enter any number between 1 and 16 (including both) and then enter that many number of terms in ascending order as shown in the screenshot below .
 
 ## The Python 3 code in action 
 ![Screenshot](py_code@work.png)
@@ -42,22 +73,6 @@ Python
 
 
 
-## How to run the code and get your desired results
-It's fairly simple .
-All you need is a text editor and terminal (in case of Linux or Mac ) or any IDE like PyCharm or Spyder,etc .
-
-The next step , just copy and paste the raw version of project.py code present in the main page of mev-project .
-
-In case you are using Mac or Linux for testing this code and have  saved the code in your system as project.py ,then open the terminal and move to the directory where you have saved the project.py and type as below to run it.
-
-
-$ python3 project.py
-
-
-If you are using any IDE in Windows or Mac , simply run the code using the " Run " button available in the IDE .
-
-To get the desired result , enter any number between 1 and 16 (including both) and then enter that many number of terms in ascending order as shown in the screenshot above .
-
-The detailed description about the project can be found in the link below :
-
+The detailed description about the project can be found [here](
 https://drive.google.com/file/d/1oAODZIsy7459-_C6LWzd1m9FnZfv9eqy/view?usp=drivesdk
+)
