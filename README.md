@@ -77,7 +77,9 @@ If you have  saved the code in your system as project.py ,then open the terminal
 __$ python3 project.py__
 
 To get the desired result , enter any number between 1 and 16 (including both) and then enter that many number of terms in ascending order as shown in the screenshot below .
+
 ---
+
 ## The Python 3 code in action 
 ![Screenshot](py_code@work.png)
 (Using terminal in Ubuntu 18.04 )
