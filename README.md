@@ -1,5 +1,5 @@
 # Python 3 implementation of Map Entered Variable(MEV) method
-
+---
 ## Overview
 
 ## What is Map Entered Variable(MEV) method ?
@@ -28,10 +28,12 @@ At first , it may look fairly simple as a relatively simple example has been dem
 As the number of variables increases the complexicity of grouping the enterd variables also increases .
 The code in this case is written for four variable K-map problem , which means there will be 16 cells in the K-map for that kind of problems .
  
+---
 
 ## Dependencies
-__Python 3__
+- __Python 3__
 
+---
 
 ## Installation
 __On Mac or any Linux distro__
@@ -51,6 +53,7 @@ If you see python version 2.7 , install the the python 3 version from [here](htt
 __On Windows__
 
 Install python 3 version from  [here](https://www.python.org/downloads/)
+---
 
 ## Usage on your Local Machine
 
@@ -73,15 +76,14 @@ If you have  saved the code in your system as project.py ,then open the terminal
 __$ python3 project.py__
 
 To get the desired result , enter any number between 1 and 16 (including both) and then enter that many number of terms in ascending order as shown in the screenshot below .
-
+---
 ## The Python 3 code in action 
 ![Screenshot](py_code@work.png)
 (Using terminal in Ubuntu 18.04 )
 
------------------------------------------------------------------------------------------------------------------------------
+---
 
 
-
-The detailed description about the project can be found [here](
+- The detailed description about the project can be found [here](
 https://drive.google.com/file/d/1oAODZIsy7459-_C6LWzd1m9FnZfv9eqy/view?usp=drivesdk
 )
