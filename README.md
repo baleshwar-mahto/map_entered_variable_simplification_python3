@@ -61,7 +61,7 @@ Install python 3 version from  [here](https://www.python.org/downloads/)
 It's fairly simple .
 All you need is a text editor and terminal / Command prompt .
 
-Open any editor of your choice and just copy and paste the raw version of project.py code present in the main page of mev-project and save it as project.py .
+Open any editor of your choice and just copy and paste the raw version of [project.py](https://github.com/baleshwar2508/Map-Entered-Variable/blob/master/project.py) code present in the main page of mev-project and save it as project.py .
 
 __On Windows__
  
@@ -87,6 +87,3 @@ To get the desired result , enter any number between 1 and 16 (including both) a
 ---
 
 
-- The detailed description about the project can be found [here](
-https://drive.google.com/file/d/1oAODZIsy7459-_C6LWzd1m9FnZfv9eqy/view?usp=drivesdk
-)
