@@ -1,4 +1,5 @@
-# Python 3 implementation of Map Entered Variable(MEV) method
+# Python 3 implementation of Map Entered Variable(MEV) Method
+---
 ![Screenshot](mev_thumbnail.jpg)
 ## About
 This project was done as a partial requirement for the Digital Electronics Course in my 3rd Semester at the School of Engineering , Central University of Karnataka , Kalaburagi . The project automates the Map Entered Varibale Method ( MEV ) for 4 variables in the Boolean Algebra using Python 3 . </br></br>
