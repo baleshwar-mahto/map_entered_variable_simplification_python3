@@ -1,4 +1,8 @@
 # Python 3 implementation of Map Entered Variable(MEV) method
+## About
+This project was done as a partial requirement for the Digital Electronics Course in my 3rd Semester at the School of Engineering , Central University of Karnataka , Kalaburagi . The project automates the Map Entered Varibale Method ( MEV ) for 4 variables in the Boolean Algebra using Python 3 . </br></br>
+[Youtube Link of the demo of the project](https://youtu.be/5p4NTb7_wSk)
+
 ---
 ## Overview
 
@@ -81,7 +85,7 @@ To get the desired result , enter any number between 1 and 16 (including both) a
 ---
 
 ## The Python 3 code in action 
-![Screenshot](py_code@work.png)
+![Screenshot](py_code@work.png) </br>
 (Using terminal in Ubuntu 18.04 )
 
 ---
